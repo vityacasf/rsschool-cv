@@ -130,9 +130,6 @@ body {
 .rss {
     height: 40px;
     width: 108px;
-    background-image: url(./assets/img/rs_school.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 
 .github {
